@@ -1,0 +1,3 @@
+# Stop endless cash loop from spamming 'day' command
+# Add a command list function
+# Clean up 'inventory' and 'buy' responses to be more eye-friendly
